@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Waldemar
 
-**Hard choices, easy life. Easy choices, hard life.**
-
 I build tools and extensions for **Microsoft Dynamics 365 Business Central**, focusing on improving the daily workflow of AL developers.  
 My work includes developer utilities, VS Code extensions, and practical apps used in real-world BC projects.
 
