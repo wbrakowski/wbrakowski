@@ -35,7 +35,7 @@ A toolbox app for on-prem Business Central installations, including data deletio
 An AL app for quickly editing or deleting table data directly inside Business Central.
 
 ### 🔹 Report-Overview
-A Business Central extension that provides a unified overview of all your customized reports, letting you browse, open, and run reports or pages directly from one place. Includes prefiltered report selections for common scenarios (e.g., sales and purchase), saving time navigating through menus. :contentReference[oaicite:6]{index=6}
+A Business Central extension that provides a unified overview of all your customized reports, letting you browse, open, and run reports or pages directly from one place. Includes prefiltered report selections for common scenarios (e.g., sales and purchase), saving time navigating through menus.
 
 ---
 
