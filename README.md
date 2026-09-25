@@ -1,4 +1,4 @@
-# 👋 Hi
+# Hi
 
 I build tools and extensions for **Microsoft Dynamics 365 Business Central**, focusing on improving the daily workflow of AL developers.  
 My work includes developer utilities, VS Code extensions, and practical apps used in real-world BC projects.
@@ -7,17 +7,17 @@ I'm passionate about clean solutions, productivity, and sharing useful tools wit
 
 ---
 
-## 🛠️ Tech Stack & Focus
+## Tech Stack & Focus
 
-- 💻 Microsoft Dynamics 365 Business Central
-- 🧩 AL Development
-- 🧰 VS Code Extensions
-- ✨ TypeScript, AL
-- ⚙️ Developer Utilities & Tooling
+- Microsoft Dynamics 365 Business Central
+- AL Development
+- VS Code Extensions
+- TypeScript, AL
+- Developer Utilities & Tooling
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🔹 Most-Useful-BC-Repositories
 A curated collection of helpful repositories, tools, and resources for Business Central developers.
@@ -39,9 +39,6 @@ A Business Central extension that provides a unified overview of all your custom
 
 ---
 
-
-## 📫 Get in Touch
+## Get in Touch
 
 🌐 Website: https://navinsights.net/  
-
-Thanks for stopping by — feel free to explore my repositories.
